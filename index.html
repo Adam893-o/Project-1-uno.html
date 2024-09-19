@@ -1,12 +1,12 @@
 <!Doctype html>
-<html = lang "en">
+<html lang="en">
 <head>
-	<meta charset="utf-8">
+	<meta charset="UTF-8">
 	<title>5 fun facts about UNO!</title>
 </head>
 <body>
 	<h1>5 fun facts about UNO!</h1>
-	<p>Adam Sharifeh<p>
+	<p>Adam Sharifeh</p>
 	<p>Uno is a card game loved by all and is one of the most iconic card games of all time. This game has brought joy, anger, satisfaction, and even friendship endings but people still enjoy the game for how fun it is. However, there's more to the game than you think. It's had quite an interesting history and fact that people will find interesting.</p>
 	<h2>1.The game is much older than you think</h2>
 	<img src="Media/Image4.png" height="120" width="200" alt="Image of Uno history"/>
@@ -24,6 +24,6 @@
 	<img src="Media/Image8.png" height="120" width="190" alt="Image of Uno new rules"/>
 	<p>As time went by, this game had a lot of new mechanics and gimmicks to make the game more intense. Whether it's playing a 7 to take someone's hand, immediately playing the same card your opponent played when it's not your turn, or even challenging someone that plays the infamous 4+card on you to make them draw 4 instead. It has made the game more interesting than when it was first invented.</p>
 	<h2>Conclusion</h2>
-	<p>This game has brought a lot of entertainment to a lot of people. We may end up saying or doing things we don't mean but that's just how games are. This game is available for <strong>mobile and PC</strong> and they're high quality in the end.
+	<p>This game has brought a lot of entertainment to a lot of people. We may end up saying or doing things we don't mean but that's just how games are. This game is available for <strong>mobile and PC</strong> and they're high quality in the end.</p>
 </body>
 </html>
