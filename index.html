@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>5 fun facts about UNO!</title>
+	<title>5 Fun Facts About UNO!</title>
 </head>
 <body>
 	<h1>5 fun facts about UNO!</h1>
