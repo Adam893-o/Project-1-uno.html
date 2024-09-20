@@ -11,13 +11,13 @@
 	<h2>1.The game is much older than you think</h2>
 	<img src="Media/Image4.png" height="300" width="450" alt="Image of Uno history"/>
 	<p>The game was first made in 1971 by an American barber named Merle Robbins. This means this game is almost a century year old.</p>
-	<h2>2.When Robbins sold the game for $50,000</h2>
+	<h2>2.Merle Robbins sold the game for $50,000.</h2>
 	<img src="Media/Image5.jpeg" height="120" width="200" alt="Image of Merle Robbins"/>
-	<p>Merle Robbins back then sold this game for $50,000 which may not be a lot of money to this day. It's still a lot for an average person especially since this is a card game.</p>
+	<p>This games was made a man named Merle Robbins and he sold this game for $50,000 which may not be a lot of money to this day. It's still a lot for an average person especially since this is a card game.</p>
 	<h2>3.Uno has sold in many countries.</h2>
 	<img src="Media/Image6.png" height="200" width="200" alt="Image of other UNO cards"/>
 	<p>UNO has sold in over 80 countries around the world</p>
-	<h2>4.Other characters are in the game</h2>
+	<h2>4.Other characters are in the game.</h2>
 	<img src="Media/Image7.jpeg" height="250" width="290" alt="Image of Uno history"/>
 	<p> The game has gotten so popular over the years that other characters such as Mario, Star Wars characters, Harry Potter, and Minions made an appearance.</p>
 	<h2>5.The game has evolved a lot over the years.</h2>
