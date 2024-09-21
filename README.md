@@ -5,15 +5,6 @@
 	<title>5 Fun Facts About UNO!</title>
 </head>
 <body>
-	<header>
-			<nav>
-				<ul>
-					<li><a href="https://adam893-o.github.io/Project-1/">About Jupiter</a></li>
-					<li><a href="https://adam893-o.github.io/Resume/"_blank">Resume</a></li>
-					<li><a href="https://adam893-o.github.io/Project-1-UNO/">Facts About UNO</a></li>
-				</ul>
-			</nav>
-	</header>
 	<div>
 	<h1>5 Fun Facts About UNO!</h1>
 	<p>Adam Sharifeh</p>
